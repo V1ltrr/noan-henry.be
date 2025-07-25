@@ -49,12 +49,25 @@ ul li {
   font-size: 1.1rem;
 }
 
+/* ----------------------ICONS------------------------- */
 .icons img {
   width: 100%;
-  max-width: 800px;
-  display: block;
+  display:flexbox;
   margin: 10px auto;
 }
+.tool {
+  width: 100%;
+  max-width: 540px;
+  display:flexbox;
+  margin: 10px auto;
+}
+.lang {
+  width: 100%;
+  max-width: 275px;
+  display:flexbox;
+  margin: 10px auto;
+}
+/* ----------------------------------------------- */
 
 .stats-grid {
   display: grid;
