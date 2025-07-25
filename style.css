@@ -91,13 +91,13 @@ ul li {
 }
 
 .project-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-5px) translateX(-5px) translateZ(-5px);
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
 }
 
 .project-card a {
   text-decoration: none;
-  color: #0077cc;
+  color: #676767;
 }
 
 .project-card a:hover {
