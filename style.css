@@ -82,6 +82,7 @@ ul li {
   gap: 20px;
 }
 
+/* ----------------------CARDS------------------------- */
 .project-card {
   border: 2px solid #ddd;
   border-radius: 10px;
@@ -127,6 +128,7 @@ ul li {
   background-color: #d1ecf1;
   color: #0c5460;
 }
+/* ----------------------------------------------- */
 
 .connect .socials {
   display: flex;
