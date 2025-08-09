@@ -241,7 +241,7 @@ ul li {
   justify-content: center;
 }
 
-.connect a {
+/* .connect a {
   background-color: #e0e0e0;
   padding: 10px 20px;
   border-radius: 8px;
@@ -249,12 +249,12 @@ ul li {
   color: #333;
   font-weight: bold;
   transition: 0.3s ease;
-}
+
 
 .connect a:hover {
   background-color: #ccc;
 }
-
+} */
 .skills-grid {
   display: flex;
   flex-wrap: wrap;
